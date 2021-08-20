@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "placa": "NJX-6535",
+      "chassi": "321654248",
+      "renavam": "61541234",
+      "modelo": "HRV",
+      "marca": "Honda",
+      "ano": "2010"
+    },
+    {
+      "id": 3,
+      "placa": "JNX-6535",
+      "chassi": "321654248",
+      "renavam": "61541234",
+      "modelo": "HRV",
+      "marca": "Honda",
+      "ano": "2015"
+    },
+    {
+      "placa": "LKU-9843",
+      "chassi": "21786142",
+      "renavam": "4124254",
+      "modelo": "Palio",
+      "marca": "Fiat",
+      "ano": "2005",
+      "id": 4
+    },
+    {
+      "placa": "LKU-9843",
+      "chassi": "146513454",
+      "renavam": "3256233416",
+      "modelo": "HB20",
+      "marca": "Hyndai",
+      "ano": "2010",
+      "id": 5
+    }
+  ]
+}
